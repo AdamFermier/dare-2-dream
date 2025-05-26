@@ -1,4 +1,0 @@
----
-title: Classical Mechanics
-description: 
----
