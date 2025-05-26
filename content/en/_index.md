@@ -30,4 +30,3 @@ Adding the "ARTS" to the classic STEM thinking helps the <strong>design elements
 It takes patience and persistance to make your dream come to life!
 {{% /blocks/section %}}
 
-{{% /blocks/section %}}
