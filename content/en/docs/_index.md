@@ -1,5 +1,10 @@
 ---
-title: Hops and Sleep
+title: Docs
+linkTitle: Docs
+menu: {main: {weight: 100}}
+weight: 100
+cascade: 
+  type: "docs"
 ---
 {{% blocks/section %}}
 ### The Power of Hops for Better Sleep and Dreams
