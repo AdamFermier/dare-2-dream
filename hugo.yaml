@@ -45,9 +45,9 @@ imaging:
 languages:
   en:
     languageName: English
-    title: STEM to STEAM
+    title: Dare to Dream
     params:
-      description: Research on STEM to STEAM
+      description: Research on Dare to Dream
   # cSpell:disable
 
 markup:
