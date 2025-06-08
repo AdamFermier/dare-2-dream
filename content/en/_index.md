@@ -20,3 +20,36 @@ title: Dare 2 Dream
   <strong>STEAM</strong> is the pursuit of creativity and innovation through Science, Technology, Engineering, Arts, and Mathematics. Here, we connect these disciplines to the mysteries of sleep and dreaming, using natural solutions like hops to inspire healthier, more creative lives.
 </p>
 {{% /blocks/lead %}}
+
+## Hops Pillow Designs
+
+<style>
+.image-container {
+    width: 300px;
+    height: 300px;
+    margin: 0 auto;
+}
+.image-container img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+</style>
+
+<div class="row">
+  <div class="col-md-4 text-center mb-4">
+    <div class="image-container">
+      {{< figure src="hops-pillow-alternative-designs.png" title="Alternative Designs" caption="Unique and creative hops pillow styles" class="img-fluid rounded" >}}
+    </div>
+  </div>
+  <div class="col-md-4 text-center mb-4">
+    <div class="image-container">
+      {{< figure src="hops-pillow-child-designs.png" title="Child Designs" caption="Playful and comforting hops pillows for kids" class="img-fluid rounded" >}}
+    </div>
+  </div>
+  <div class="col-md-4 text-center mb-4">
+    <div class="image-container">
+      {{< figure src="hops-pillow-single-flower.png" title="Single Flower Design" caption="Elegant and minimalistic hops pillow" class="img-fluid rounded" >}}
+    </div>
+  </div>
+</div>
