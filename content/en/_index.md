@@ -25,21 +25,22 @@ title: Dare 2 Dream
 
 <style>
 .image-container {
-    width: 300px;
-    height: 300px;
-    margin: 0 auto;
+  width: 300px;
+  height: 300px;
+  margin: 0 auto;
+  margin-bottom: 20px;  /* Added buffer space */
 }
 .image-container img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
 }
 </style>
 
 <div class="row">
   <div class="col-md-4 text-center mb-4">
     <div class="image-container">
-      {{< figure src="hops-pillow-alternative-designs.png" title="Alternative Designs" caption="Unique and creative hops pillow styles" class="img-fluid rounded" >}}
+      {{< figure src="hops-pillow-single-flower.png" title="Single Flower Design" caption="Elegant and minimalistic hops pillow" class="img-fluid rounded" >}}
     </div>
   </div>
   <div class="col-md-4 text-center mb-4">
@@ -49,7 +50,7 @@ title: Dare 2 Dream
   </div>
   <div class="col-md-4 text-center mb-4">
     <div class="image-container">
-      {{< figure src="hops-pillow-single-flower.png" title="Single Flower Design" caption="Elegant and minimalistic hops pillow" class="img-fluid rounded" >}}
+      {{< figure src="hops-pillow-alternative-designs.png" title="Alternative Designs" caption="Unique and creative hops pillow styles" class="img-fluid rounded" >}}
     </div>
   </div>
 </div>
