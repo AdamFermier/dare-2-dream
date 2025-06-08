@@ -6,29 +6,17 @@ title: Dare 2 Dream
 <a class="btn btn-lg btn-light me-3 mb-4" href="{{< relref "overview" >}}">
   <i class="fas fa-arrow-alt-circle-left ms-2"></i> Overview
 </a>
-<a class="btn btn-lg btn-light me-3 mb-4" href="{{< relref "aromatherapy" >}}">
+<a class="btn btn-lg btn-light me-3 mb-4" href="{{< relref "overview/hops-routine/aromatherapy" >}}">
   Hops Pillows <i class="fas fa-arrow-alt-circle-right ms-2 "></i>
 </a>
-<p class="lead mt-5">A passionate team who loves to sleep, but has some issues so we are going to study just how to improve and optimize through natural herbal supliments</p>
+<p class="lead mt-5">
+  At <strong>Dare to Dream</strong>, we blend the creativity of STEAM (Science, Technology, Engineering, Arts, and Mathematics) with the science of sleep and dreams. Our mission: to explore how natural remedies like hops can enhance sleep, spark creativity, and improve well-being. Join us as we dive into the biology, chemistry, and art of dreaming better—naturally.
+</p>
 {{< blocks/link-down color="info" >}}
 {{< /blocks/cover >}}
 
-
 {{% blocks/lead color="primary" %}}
-<p><strong>STEAM&nbsp;</strong>is the pursuit of collaborations across the STEM domains to achieve a superior outcome. </p>
+<p>
+  <strong>STEAM</strong> is the pursuit of creativity and innovation through Science, Technology, Engineering, Arts, and Mathematics. Here, we connect these disciplines to the mysteries of sleep and dreaming, using natural solutions like hops to inspire healthier, more creative lives.
+</p>
 {{% /blocks/lead %}}
-
-
-{{% blocks/section %}}
-Adding the "ARTS" to the classic STEM thinking helps the <strong>design elements to be blended into the solution.</strong>
-{{% /blocks/section %}}
-
-
-{{% blocks/section type="row" %}}
-
-{{% blocks/section %}}
-It takes patience and persistance to make your dream come to life!
-{{% /blocks/section %}}
-
-{{% /blocks/section %}}
-
