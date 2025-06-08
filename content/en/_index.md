@@ -28,7 +28,7 @@ title: Dare 2 Dream
   width: 300px;
   height: 300px;
   margin: 0 auto;
-  margin-bottom: 20px;  /* Added buffer space */
+  margin-bottom: 80px;  /* Added buffer space */
 }
 .image-container img {
   width: 100%;
