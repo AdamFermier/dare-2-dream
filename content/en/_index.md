@@ -6,8 +6,8 @@ title: Dare 2 Dream
 <a class="btn btn-lg btn-light me-3 mb-4" href="{{< relref "overview" >}}">
   <i class="fas fa-arrow-alt-circle-left ms-2"></i> Overview
 </a>
-<a class="btn btn-lg btn-light me-3 mb-4" href="{{< relref "hops-n-sleep" >}}">
-  Hops & Sleep <i class="fas fa-arrow-alt-circle-right ms-2 "></i>
+<a class="btn btn-lg btn-light me-3 mb-4" href="{{< relref "aromatherapy" >}}">
+  Hops Pillows <i class="fas fa-arrow-alt-circle-right ms-2 "></i>
 </a>
 <p class="lead mt-5">A passionate team who loves to sleep, but has some issues so we are going to study just how to improve and optimize through natural herbal supliments</p>
 {{< blocks/link-down color="info" >}}
