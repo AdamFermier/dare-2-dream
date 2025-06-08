@@ -6,6 +6,8 @@ menu: {main: {parent: "Hops Routine", weight: 121}}
 weight: 121
 cascade: 
   type: "docs"
+tags: ["hops", "teas", "sleep", "relaxation"]
+categories: ["Wellness", "Sleep Aids"]
 ---
 
 ## Hops Teas: A Soothing Nightly Ritual
@@ -37,6 +39,15 @@ Hops flowers contain natural compounds, such as humulene and lupuline, that inte
 ### The Role of Teas in Your Nightly Routine
 
 Regularly drinking hops tea can help establish a consistent bedtime routine, signaling to your mind and body that it’s time to relax and prepare for restful sleep.
+
+---
+
+### References
+
+1. [National Center for Complementary and Integrative Health – Hops](https://www.nccih.nih.gov/health/hops)
+2. [Sleep Foundation – Hops and Sleep](https://www.sleepfoundation.org/sleep-aids/hops)
+3. [PubMed: Effects of Hops (Humulus lupulus L.) Extract on Sleep](https://pubmed.ncbi.nlm.nih.gov/19500096/)
+4. [Mayo Clinic – Natural Sleep Aids: Hops](https://www.mayoclinic.org/healthy-lifestyle/adult-health/expert-answers/herbal-sleep-aids/faq-20057954)
 
 ---
 

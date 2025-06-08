@@ -2,7 +2,7 @@
 title: "Nugget Hops: Breeding, Chemistry & Modern Uses"
 linkTitle: "Nugget Hops"
 description: "A deep dive into the American Nugget hop variety, its genetics, chemistry, and brewing applications."
-weight: 180
+weight: 170
 tags: 
   - american hops
   - dual-purpose hops

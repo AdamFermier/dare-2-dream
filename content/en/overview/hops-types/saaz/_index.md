@@ -2,7 +2,7 @@
 title: "Saaz Hops: Heritage, Chemistry & Traditional Uses"
 linkTitle: "Saaz Hops"
 description: "Exploring the noble Czech hop variety's legacy and properties"
-weight: 150
+weight: 180
 tags: 
   - noble hops
   - european hops

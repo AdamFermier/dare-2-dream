@@ -2,7 +2,7 @@
 title: "Fuggle Hops: Heritage, Genetics & Aroma"
 linkTitle: "Fuggle Hops"
 description: "A deep dive into the classic English Fuggle hop variety, its chemistry, and brewing legacy."
-weight: 170
+weight: 150
 tags: 
   - english hops
   - aroma hops
