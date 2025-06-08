@@ -1,70 +1,87 @@
 ---
-title: "Saaz Hops: Heritage, Genetics & Aromatics"
+title: "Saaz Hops: Heritage, Chemistry & Traditional Uses"
 linkTitle: "Saaz Hops"
-description: "Deep dive into the noble Czech Saaz hop variety"
+description: "Exploring the noble Czech hop variety's legacy and properties"
 weight: 150
 tags: 
   - noble hops
   - european hops
-  - landrace
+  - landrace varieties
   - terpenes
   - essential oils
+  - traditional medicine
 categories:
   - hop varieties
   - plant science
-  - brewing science
+  - herbal medicine
+  - european heritage
 ---
 
 ## History & Development
 
-Saaz hops (Žatecký chmel) originated in the Czech city of Žatec (Saaz in German) and have been cultivated there since the 13th century. This landrace variety is considered one of the four noble hops and carries Protected Geographical Indication status within the EU.
+Saaz (Žatecký poloraný červeňák) is a noble hop variety originating from the city of Žatec (Saaz) in the Czech Republic. With documented cultivation dating back to 1264, it represents one of the oldest continuously cultivated hop varieties in the world.
 
 ### Genetic Background
-- **Parent Varieties**: European Landrace
+- **Parent Variety**: Original European landrace
 - **Scientific Name**: _Humulus lupulus_ 'Saaz'
-- **Origin**: Žatec region, Czech Republic
-- **Ploidy**: Triploid (2n = 3x = 30)
+- **Protected Geography**: EU Protected Designation of Origin
+- **Ploidy**: Diploid (2n = 2x = 20)
 
 ## Chemical Composition
 
 ### Key Aroma Compounds
 - **Total Oil Content**: 0.4-0.8 mL/100g
 - **Primary Terpenes**:
-  - Farnesene (15-25%)
+  - Farnesene (14-20%)
   - Humulene (15-25%)
-  - Myrcene (25-35%)
+  - Myrcene (25-30%)
   - Caryophyllene (6-9%)
 
 ### Distinctive Aromatics
-Saaz's refined noble aroma profile derives from:
-- **Farnesol**: Floral, herbal notes
-- **Humulenol**: Spicy, earthy characteristics
-- **Selinene**: Herbal, woody undertones
-- **Linalool**: Subtle floral elements
+Saaz's renowned noble aroma profile stems from:
+- **Farnesene**: Floral, herbal notes
+- **Selinene**: Earthy, spicy characteristics
+- **Humulene**: Woody, elegant undertones
+- **Methyl-4-decenoate**: Unique spicy character
 
 ## Medicinal Properties
 
-### Sedative Components
-- **Alpha Acids**: 3.0-5.0%
+### Traditional Components
+- **Alpha Acids**: 3.0-4.5%
 - **Beta Acids**: 4.5-6.0%
-- **Xanthohumol**: 0.2-0.3%
+- **Polyphenols**: 4.0-5.5%
+- **Total Essential Oils**: 0.4-0.8%
 
-### Calming Effects
-High farnesene content combined with balanced terpene profile provides gentle sedative effects, traditionally used in European herbal medicine.
+### Therapeutic Applications
+Traditional Czech medicine has utilized Saaz hops for:
+- Anxiety reduction
+- Sleep enhancement
+- Digestive support
+- Hormonal balance
 
-## Cultivation & Growth
+## Cultivation & Terroir
 
-- **Growth Habit**: Medium vigor, semi-dwarf
+- **Growth Habit**: Moderate vigor
 - **Maturity**: Late season
+- **Climate Requirements**:
+  - Cool continental climate
+  - Long summer days
+  - Specific soil composition
 - **Disease Resistance**:
-  - Susceptible to downy mildew
-  - Moderate resistance to powdery mildew
-  - Resistant to wilt
-  - Sensitive to viral diseases
+  - High resistance to downy mildew
+  - Moderate powdery mildew tolerance
+  - Susceptible to Verticillium wilt
 
-## Research Applications
+## Authentication & Preservation
 
-Current research focuses on:
+- Protected geographical indication (PGI)
+- DNA fingerprinting protocols
+- Chemical marker identification
+- Traditional cultivation methods
+
+## Current Research
+
+Research priorities include:
 - Preservation of genetic authenticity
 - Terroir effects on aroma profile
 - Climate change adaptation
@@ -74,84 +91,16 @@ Current research focuses on:
 
 1. Krofta, K., et al. (2013). "Chemical and Genetic Characteristics of Saaz Hops." [Brewing Science, 66(7), 93-98](https://doi.org/10.23763/BrSc13-09krofta)
 
-2. Patzak, J., et al. (2015). "Authentication of Saaz Noble Hops (Humulus lupulus L.) - Molecular, Chemical and Sensorial Analysis." [Czech Journal of Food Sciences, 33(3), 270-279](https://doi.org/10.17221/370/2014-CJFS)
+2. Patzak, J., et al. (2015). "Authentication of Saaz Noble Hops - Molecular, Chemical and Sensorial Analysis." [Czech Journal of Food Sciences, 33(3), 270-279](https://doi.org/10.17221/370/2014-CJFS)
 
-3. Hop Research Institute. (2023). ["Saaz: Traditional Czech Variety---
-title: "Saaz Hops: Heritage, Genetics & Aromatics"
-linkTitle: "Saaz Hops"
-description: "Deep dive into the noble Czech Saaz hop variety"
-weight: 150
-tags: 
-  - noble hops
-  - european hops
-  - landrace
-  - terpenes
-  - essential oils
-categories:
-  - hop varieties
-  - plant science
-  - brewing science
----
+3. Hop Research Institute Žatec. (2023). ["Saaz Variety Description"](https://www.chizatec.cz/en/varieties/saaz/)
 
-## History & Development
+4. European Commission. (2021). ["Protected Geographical Indication: Žatecký Chmel"](https://agriculture.ec.europa.eu/quality/geographical-indications-register/zatecky-chmel-pgi_en)
 
-Saaz hops (Žatecký chmel) originated in the Czech city of Žatec (Saaz in German) and have been cultivated there since the 13th century. This landrace variety is considered one of the four noble hops and carries Protected Geographical Indication status within the EU.
+5. Nesvadba, V., et al. (2020). "Czech Hop Varieties." [Journal of the Institute of Brewing, 126(2), 128-136](https://doi.org/10.1002/jib.596)
 
-### Genetic Background
-- **Parent Varieties**: European Landrace
-- **Scientific Name**: _Humulus lupulus_ 'Saaz'
-- **Origin**: Žatec region, Czech Republic
-- **Ploidy**: Triploid (2n = 3x = 30)
+### Additional Resources
 
-## Chemical Composition
-
-### Key Aroma Compounds
-- **Total Oil Content**: 0.4-0.8 mL/100g
-- **Primary Terpenes**:
-  - Farnesene (15-25%)
-  - Humulene (15-25%)
-  - Myrcene (25-35%)
-  - Caryophyllene (6-9%)
-
-### Distinctive Aromatics
-Saaz's refined noble aroma profile derives from:
-- **Farnesol**: Floral, herbal notes
-- **Humulenol**: Spicy, earthy characteristics
-- **Selinene**: Herbal, woody undertones
-- **Linalool**: Subtle floral elements
-
-## Medicinal Properties
-
-### Sedative Components
-- **Alpha Acids**: 3.0-5.0%
-- **Beta Acids**: 4.5-6.0%
-- **Xanthohumol**: 0.2-0.3%
-
-### Calming Effects
-High farnesene content combined with balanced terpene profile provides gentle sedative effects, traditionally used in European herbal medicine.
-
-## Cultivation & Growth
-
-- **Growth Habit**: Medium vigor, semi-dwarf
-- **Maturity**: Late season
-- **Disease Resistance**:
-  - Susceptible to downy mildew
-  - Moderate resistance to powdery mildew
-  - Resistant to wilt
-  - Sensitive to viral diseases
-
-## Research Applications
-
-Current research focuses on:
-- Preservation of genetic authenticity
-- Terroir effects on aroma profile
-- Climate change adaptation
-- Traditional medicinal applications
-
-## References
-
-1. Krofta, K., et al. (2013). "Chemical and Genetic Characteristics of Saaz Hops." [Brewing Science, 66(7), 93-98](https://doi.org/10.23763/BrSc13-09krofta)
-
-2. Patzak, J., et al. (2015). "Authentication of Saaz Noble Hops (Humulus lupulus L.) - Molecular, Chemical and Sensorial Analysis." [Czech Journal of Food Sciences, 33(3), 270-279](https://doi.org/10.17221/370/2014-CJFS)
-
-3. Hop Research Institute. (2023). ["Saaz: Traditional Czech Variety
+- [Czech Hop Growers Association Database](https://www.chmelar.cz/en/varieties/saaz)
+- [Hop Research Institute Technical Reports](https://www.chizatec.cz/en/research)
+- [European Brewery Convention Hop Database](https://www.brewersofeurope.org/site/ebc/)
