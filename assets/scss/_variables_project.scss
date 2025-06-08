@@ -4,3 +4,67 @@ Add styles or override variables from the theme here.
 
 */
 
+// Theme colors
+$primary: #4CAF50;
+$secondary: darken($primary, 10%);
+
+// Navbar specific colors
+$td-navbar-color: $primary;
+$td-navbar-bg: $primary;
+
+// Force navbar styles with higher specificity
+.td-navbar {
+  background-color: $primary !important;
+  border-bottom: 1px solid $primary !important;
+  
+  .navbar-brand {
+    color: white !important;
+  }
+  
+  .nav-link {
+    color: rgba(255, 255, 255, 0.9) !important;
+    &:hover {
+      color: white !important;
+    }
+  }
+}
+
+// Make navbar transparent only on homepage cover
+.td-home .td-navbar:not(.navbar-bg-onscroll) {
+  background-color: transparent !important;
+  border-bottom: none !important;
+
+  // Make menu items transparent
+  .nav-item {
+    background-color: transparent !important;
+    
+    .nav-link {
+      background-color: transparent !important;
+      color: white !important;
+      text-shadow: 1px 1px 2px rgba(0,0,0,0.5); // Optional: adds contrast to text
+      
+      &:hover {
+        color: rgba(255,255,255,0.8) !important;
+      }
+    }
+  }
+
+  // Ensure dropdown menus stay transparent
+  .dropdown-menu {
+    background-color: transparent !important;
+    border: none;
+  }
+}
+
+// Additional overrides for other navbar elements
+#main_navbar {
+  background-color: $primary !important;
+}
+
+.navbar-bg-onscroll {
+  background-color: $primary !important;
+}
+
+// Optional: Update link colors to match
+$link-color: darken(#4CAF50, 10%);
+
