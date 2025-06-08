@@ -9,6 +9,9 @@ title: Dare 2 Dream
 <a class="btn btn-lg btn-light me-3 mb-4" href="{{< relref "overview/hops-routine/aromatherapy" >}}">
   Hops Pillows <i class="fas fa-arrow-alt-circle-right ms-2 "></i>
 </a>
+<a class="btn btn-lg btn-info me-3 mb-4" href="{{< relref "faq" >}}">
+  FAQ <i class="fas fa-question-circle ms-2"></i>
+</a>
 <p class="lead mt-5">
   At <strong>Dare to Dream</strong>, we blend the creativity of STEAM (Science, Technology, Engineering, Arts, and Mathematics) with the science of sleep and dreams. Our mission: to explore how natural remedies like hops can enhance sleep, spark creativity, and improve well-being. Join us as we dive into the biology, chemistry, and art of dreaming better—naturally.
 </p>

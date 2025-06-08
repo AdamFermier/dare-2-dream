@@ -1,0 +1,21 @@
+
+# ...existing code...
+[menu]
+  [[menu.main]]
+    identifier = "overview"
+    name = "Overview"
+    url = "/overview/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "hops-pillows"
+    name = "Hops Pillows"
+    url = "/overview/hops-routine/aromatherapy/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "faq"
+    name = "FAQ"
+    url = "/faq/"
+    weight = 3
+# ...existing code...
