@@ -1,6 +1,6 @@
 ---
 title: Hops Supplements for Sleep Support
-linkTitle: Hops Supplements
+linkTitle: Supplements
 description: "Explore how hops supplements can be used to promote relaxation and improve sleep quality."
 menu: {main: {parent: "Hops Routine", weight: 122}}
 weight: 122

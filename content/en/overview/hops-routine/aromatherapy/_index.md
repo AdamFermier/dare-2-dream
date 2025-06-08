@@ -1,6 +1,6 @@
 ---
 title: Hops Aromatherapy for Relaxation and Sleep
-linkTitle: Hops Aromatherapy
+linkTitle: Aromatherapy
 description: "Discover how hops aromatherapy, including hop pillows, can support relaxation and restful sleep."
 menu: {main: {parent: "Hops Routine", weight: 123}}
 weight: 123

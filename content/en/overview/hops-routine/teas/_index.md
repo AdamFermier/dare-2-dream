@@ -1,6 +1,6 @@
 ---
 title: Hops Teas for Relaxation and Sleep
-linkTitle: Hops Teas
+linkTitle: Teas
 description: "Learn how to prepare and use hops teas to support relaxation and better sleep."
 menu: {main: {parent: "Hops Routine", weight: 121}}
 weight: 121
